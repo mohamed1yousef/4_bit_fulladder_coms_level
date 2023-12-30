@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      Administrator
+HostName                       DESKTOP-FIK5SPH
+ProcessIdentifier              9040
+ProcessCreationTime_UTC        1696061832
+ProcessCreationTime_Readable   Sat Sep 30 11:17:12 2023 Egypt Daylight Time
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\Users\Administrator\Documents\TannerEDA\TannerTools_v2019.2\Tutorials\OA\Tutorial\pmos\cmos\cmos\Cell0\symbol\symbol.oa.cdslck.dirlck
+TimeEditLocked                 Sat Sep 30 11:19:36 2023 Egypt Daylight Time
